@@ -47,7 +47,7 @@ const linkCards=[
     },
     {
         linkUrl:'seha.sa',
-        imgUrl:'sehalogo.png', 
+        imgUrl:'SehaLogo.png', 
         name:'منصة الخدمات الصحية'
     },
     {
