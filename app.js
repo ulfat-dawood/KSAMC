@@ -77,7 +77,7 @@ const linkCards=[
     },
     {
         linkUrl:'nheoc.moh.gov.sa/eoc/default.aspx',
-        imgUrl:'eoc.png', 
+        imgUrl:'eoc.PNG', 
         name:'ECO'
     },
     {
@@ -97,7 +97,7 @@ const linkCards=[
     },
     {
         linkUrl:'his.elm.sa/login.html#/pages/auth/login',
-        imgUrl:'elm.png', 
+        imgUrl:'elm.PNG', 
         name:'علم'
     },
     {
