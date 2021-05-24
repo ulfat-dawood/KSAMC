@@ -12,7 +12,7 @@ const linkCards=[
     },
     {
         linkUrl:'10.62.74.36/sup/index.aspx',
-        imgUrl:'/main.png', 
+        imgUrl:'main.png', 
         name:'نظام بلاغات الصيانة'
     },
     {
