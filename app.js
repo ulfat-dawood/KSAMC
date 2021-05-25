@@ -15,16 +15,16 @@ const linkCards=[
         imgUrl:'main.PNG', 
         name:'نظام بلاغات الصيانة'
     },
-    {
-        linkUrl:'46.235.95.46/BillSoft/Login.aspx',
-        imgUrl:'bill.jpg', 
-        name:'برنامج الخدمة بمقابل'
-    },
-    {
-        linkUrl:'w4prdelrn.moh.gov.sa/elibrary/index.html',
-        imgUrl:'alerteln.png', 
-        name:'Alert eLIBRARY'
-    },
+    // {
+    //     linkUrl:'46.235.95.46/BillSoft/Login.aspx',
+    //     imgUrl:'bill.jpg', 
+    //     name:'برنامج الخدمة بمقابل'
+    // },
+    // {
+    //     linkUrl:'w4prdelrn.moh.gov.sa/elibrary/index.html',
+    //     imgUrl:'alerteln.png', 
+    //     name:'Alert eLIBRARY'
+    // },
     {
         linkUrl:'erp.moh.gov.sa',
         imgUrl:'mawared.png', 
@@ -65,11 +65,11 @@ const linkCards=[
         imgUrl:'forg.png', 
         name:'تحديث بيانات الموظفين'
     },
-    {
-        linkUrl:'w4prdhis.moh.gov.sa',
-        imgUrl:'alert.png', 
-        name:'Alert برنامج'
-    },
+    // {
+    //     linkUrl:'w4prdhis.moh.gov.sa',
+    //     imgUrl:'alert.png', 
+    //     name:'Alert برنامج'
+    // },
     {
         linkUrl:'10.62.66.115/moh_pacs/',
         imgUrl:'pacs.jpg', 
